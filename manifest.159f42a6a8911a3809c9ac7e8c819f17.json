@@ -1,0 +1,67 @@
+{
+  "icons": [
+    {
+      "src": "/CNSC/icon_180x180.e1a7f316d1f0820c2663bfe3e552f69b.ico",
+      "sizes": "180x180",
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "src": "/CNSC/icon_167x167.e1a7f316d1f0820c2663bfe3e552f69b.ico",
+      "sizes": "167x167",
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "src": "/CNSC/icon_152x152.e1a7f316d1f0820c2663bfe3e552f69b.ico",
+      "sizes": "152x152",
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "src": "/CNSC/icon_120x120.e1a7f316d1f0820c2663bfe3e552f69b.ico",
+      "sizes": "120x120",
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "src": "/CNSC/icon_512x512.e1a7f316d1f0820c2663bfe3e552f69b.ico",
+      "sizes": "512x512",
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "src": "/CNSC/icon_384x384.e1a7f316d1f0820c2663bfe3e552f69b.ico",
+      "sizes": "384x384",
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "src": "/CNSC/icon_192x192.e1a7f316d1f0820c2663bfe3e552f69b.ico",
+      "sizes": "192x192",
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "src": "/CNSC/icon_144x144.e1a7f316d1f0820c2663bfe3e552f69b.ico",
+      "sizes": "144x144",
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "src": "/CNSC/icon_128x128.e1a7f316d1f0820c2663bfe3e552f69b.ico",
+      "sizes": "128x128",
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "src": "/CNSC/icon_96x96.e1a7f316d1f0820c2663bfe3e552f69b.ico",
+      "sizes": "96x96",
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "src": "/CNSC/icon_72x72.e1a7f316d1f0820c2663bfe3e552f69b.ico",
+      "sizes": "72x72",
+      "type": "image/vnd.microsoft.icon"
+    }
+  ],
+  "name": "React Boilerplate",
+  "short_name": "React BP",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "My React Boilerplate-based project!",
+  "background_color": "#fafafa",
+  "theme_color": "#b1624d"
+}
